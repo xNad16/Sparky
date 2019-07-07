@@ -1,0 +1,12 @@
+discord.py
+imdbpy
+wikipedia
+safygiphy
+newsapi-python
+googletrans
+gsearch
+numpy
+matplotlib
+urbandict
+lyricwikia
+feedparser
